@@ -25,5 +25,5 @@ int printing_int(va_list x);
 int (*get_spc(const char *format))(va_list);
 int _printf(const char *format, ...);
 
-#endif // HEADER_H
+#endif
 
