@@ -1,4 +1,4 @@
-#include "header.h"
+#include "main.h"
 /**
  * get_spc - function getting the specifier and
  * the function needed to print this specifer data type
