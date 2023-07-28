@@ -1,4 +1,4 @@
-#include "header.h"
+#include "main.h"
 /**
  * printing_int - function printing int and decimal nums
  * @x: the list to get the number from
